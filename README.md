@@ -43,6 +43,7 @@ For more demo images, check the **.assets** directory.
 React Router v7 Authentication Demo Series:
 - [React Router v7 Cloudflare workers template](https://github.com/foxlau/react-router-v7-cloudflare-workers) - React Router v7 Cloudflare workers template.
 - [React Router v7 with Remix Auth](https://github.com/foxlau/react-router-v7-remix-auth) - Multi-strategy authentication demo using Remix Auth
+- [React Router v7 with Vite+](https://github.com/lukexlau/react-router-vite-plus) - React router v7, hono.js, Drizzle ORM, Better auth, Vite+ and Paraglide.js
 
 ## Getting Started
 
